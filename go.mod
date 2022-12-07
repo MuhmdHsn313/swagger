@@ -1,4 +1,4 @@
-module github.com/iris-contrib/swagger
+module github.com/MuhmdHsn313/swagger
 
 go 1.19
 
